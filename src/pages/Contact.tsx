@@ -245,7 +245,7 @@ const Contact = () => {
 
                   <div className="aspect-video rounded-sm overflow-hidden border border-border mt-8">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.935844488252!2d11.069183276892435!3d49.44792955903806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f57a835434d4d%3A0xfba938ebd99d6f67!2sTop%20Salon%20-%20N%C3%BCrnberg!5e0!3m2!1sde!2sde!4v1769779552025!5m2!1sde!2sde"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5023.4735695465415!2d7.1027448935791035!3d50.98405569999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf29c85643f09d%3A0x8f43c7c30e7a5b1b!2sFriseur%20Mike%20Savelsberg!5e0!3m2!1sde!2sde!4v1770816916030!5m2!1sde!2sde"
                       width="100%"
                       height="100%"
                       style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
